@@ -1,0 +1,866 @@
+Beta Caeli
+Groombridge
+Alpha Ceti
+Beta Brahe
+Beta Chandrasekhar
+Epsilon Krueger
+Gamma Sculptoris
+Kappa Draconis
+Delta Librae
+Epsilon Ariestis
+Gamma Krueger
+Theta Crateris
+Delta Brahe
+Vela
+Alpha Hyginus
+Delta Lyncis
+Beta Piscium
+Gamma Fornacis
+Rigel
+Zeta Serpentis
+Gamma Gruis
+Theta Chamaeleonis
+Beta Vulpeculae
+Delta Aquilae
+Theta Horologii
+Beta Mersenne
+Beta Lyncis
+Eta Fornacis
+Beta Klystron
+Epsilon Arae
+Beta Wolf
+Alpha Apodis
+Alpha Klystron
+Alpha Volantis
+Delta Crateris
+Xi Draconis
+Almagest
+Gamma Crateris
+Beta Apodis
+Delta Vulpeculae
+Delta Arietis
+Gamma Eridani
+Beta Aquarii
+Delta Cygnus
+Beta Tauri
+Eta Orionis
+Eta Librae
+Gamma Apodis
+Alpha Persei
+Gamma Leonis
+Capella
+Beta Raynet
+Epsilon Muscae
+Beta Indi
+Gamma Scuti
+Beta Doradus
+Lambda Horologii
+Delta Circini
+Alpha Cygnus
+Alpha Raynet
+Gamma Tucanae
+Eta Draconis
+Gamma Telescopii
+Alpha Copernicus
+Alpha Leonis
+Mu Draconis
+Epsilon Cassiopeiae
+Alpha Saurus
+Alpha Mira
+Epilson Fornacis
+Delta Giclas
+Beta Pictoris
+Alpha Arietis
+Gamma Caeli
+Squidi Alpha
+Gorno Epsilon
+Iota Persei
+Eta Giclas
+Gamma Horologii
+Zeta Chamaeleonis
+Betelgeuse
+Delta Antliae
+Beta Bootis
+Beta Lalande
+Delta Sextantis
+Alpha Herculis
+Deneb
+Delta Muscae
+Alpha Andromedae
+Gamma Lentilis
+Hyperion
+Gamma Illuminati
+Beta Corvi
+Mu Orionis
+Beta Draconis
+Beta Leporis
+Delta Lipi
+Beta Hyades
+Alpha Wolf
+Alpha Eridani
+Zeta Gruis
+Alpha Sagittae
+Zeta Aquarii
+Beta Gruis
+Beta Aquilae
+Gamma Arietis
+Beta Puppis
+Beta Andromedae
+Epsilon Circini
+Delta Aquarii
+Beta Hydrae
+Alpha Lentilis
+Gamma Ptolemae
+Gamma Sagittarii
+Beta Mensae
+Beta Librae
+Epsilon Caeli
+Delta Lalande
+Epsilon Chandrasekhar
+Beta Ptolemae
+Metis
+Gamma Chamaeleonis
+Delta Arae
+Epsilon Ceti
+Gamma Mensae
+Beta Krueger
+Epsilon Camelopardalis
+Zeta Muscae
+Alpha Ptolemae
+Zeta Hyades
+Alpha Sextantis
+Beta Arae
+Alpha Tauri
+Alpha Normae
+Theta Serpentis
+Alpha Trianguli
+Delta Persei
+Epsilon Vulpeculae
+Gamma Antliae
+Iota Chamaeleonis
+Lambda Draconis
+Gamma Muscae
+Beta Monocerotis
+Delta Volantis
+Eta Vulpeculae
+Gamma Cancri
+Alpher Olber
+Beta Illuminati
+Delta Mira
+Alpha Leporis
+Gamma Carinae
+Alpha Kepler
+Beta Ceti
+Antares
+Gamma Copernicus
+Gamma Orionis
+Beta Scorpii
+Lamdba Hyades
+Iota Camelopardalis
+Eta Aquarii
+Canopus
+Beta Centauri
+Beta Sagittae
+Gamma Brahe
+Delta Hyades
+Gamma Bootis
+Delta Corvi
+Zeta Krueger
+Zeeman
+Gamma Cygnus
+Arcturus
+Beta Copernicus
+Zeta Horologii
+Beta Trianguli
+Gamma Ceti
+Algol
+Iota Hyades
+Zeta Ptolemae
+Beta Hygines
+Epsilon Draconis
+Gamma Reticuli
+Epsilon Aquilae
+Beta Maksutov
+Epsilon Normae
+Gamma Raynet
+Gamma Columbae
+Alpha Serpentis
+Beta Equulei
+Iota Serpentis
+Alpha Caeli
+Delta Apodis
+Pollux
+Epsilon Bootis
+Gamma Phoenicis
+Zeta Crateris
+Alpha Lacertae
+Theta Orionis
+Alpha Crateris
+Alpha Monocerotis
+Aldebaran
+Beta Sculptoris
+Alpha Vulpeculae
+Beta Cancri
+Zeta Corvi
+Alpha Giclas
+Epsilon Brahe
+Epsilon Orionis
+Delta Cancri
+Beta Crucis
+Epsilon Scorpii
+Alpha Pictoris
+Gamma Olber
+Zeta Volantis
+Epsilon Horologii
+Gamma Ophiuchi
+Alpha Geminorum
+Beta Scuti
+Alpha Mersenne
+Alpha Lacaille
+Nu Draconis
+Alpha Equulei
+Gamma Leporis
+Gamma Pictoris
+Theta Giclas
+Epsilon Antliae
+Beta Cerenkov
+Beta Mira
+Alpha Mensae
+Alpha Circini
+Theta Illuminati
+Alpha Columbae
+Gamma Geminorum
+Gamma Chandrasekhar
+Delta Crucis
+Eta Hyades
+Gamma Tauri
+Beta Camelopardalis
+Gamma Vulpeculae
+Eta Gruis
+Beta Telescopii
+Delta Virginis
+Beta Lyrae
+Delta Fornacis
+Epsilon Centauri
+Theta Hyades
+Gamma Lacaille
+Delta Bootis
+Gamma Lyncis
+Gamma Virginis
+Epsilon Corvi
+Menkar
+Alpha Illuminati
+Beta Gorno
+Alpha Aquarii
+Gamma Puppis
+Alpha Horologii
+Delta Centauri
+Beta Circini
+Delta Chandrasekhar
+Zeta Lyncis
+Zeta Brahe
+Delta Sagittarii
+Delta Krueger
+Organon
+Alpha Corvi
+Beta Luyten
+Alpha Indi
+Zeta Librae
+Delta Lentilis
+Beta Leonis
+Delta Cassiopeiae
+Beta Olber
+Zeta Scorpii
+Zeta Illuminati
+Delta Camelopardalis
+Eta Bootis
+Delta Ceti
+Beta Giclas
+Alpha Cancri
+Alpha Lalande
+Beta Muscae
+Delta Vitalis
+Zeta Tauri
+Beta Persei
+Alpha Doradus
+Gamma Trianguli
+Gamma Sagittae
+Beta Saurus
+Beta Columbae
+Alpha Scuti
+Beta Pegasi
+Beta Horologii
+Kappa Orionis
+Alpha Antliae
+Epsilon Scuti
+Gamma Mira
+Gamma Cassiopeiae
+Gamma Piscium
+Epsilon Hyades
+Alpha Piscium
+Alpha Virginis
+Zeta Persei
+Zeta Vulpeculae
+Zeta Giclas
+Gamma Luyten
+Alpha Chamaeleonis
+Gamma Serpentis
+Delta Scorpii
+Gamma Lipi
+Eta Serpentis
+Beta Virginis
+Zeta Draconis
+Alpha Carinae
+Epsilon Gruis
+Alpha Lyrae
+Beta Reticuli
+Gamma Arae
+Gamma Lalande
+Delta Horologii
+Eta Ptolemae
+Beta Cassiopeiae
+Gamma Librae
+Epsilon Cygnus
+Beta Crateris
+Gamma Scorpii
+Eta Volantis
+Beta Lacertae
+Zeta Circini
+Gamma Sextantis
+Beta Delphini
+Alpha Chandrasekhar
+Bellatrix
+Delta Serpentis
+Epsilon Aquarii
+Delta Tauri
+Delta Chamaeleonis
+Alpha Brahe
+Gamma Kepler
+Eta Horologii
+Alpha Crucis
+Eta Crateris
+Epsilon Lipi
+Epsilon Giclas
+Betal Vitalis
+Iota Draconis
+Beta Ophiuchi
+Alpha Krueger
+Gamma Arianni
+Gamma Aurigae
+Beta Cygnus
+Epsilon Librae
+Beta Kepler
+Epsilon Persei
+Alpha Pyxidis
+Eta Lyncis
+Iota Orionis
+Alpha Phoenicis
+Epsilon Lyncis
+Zeta Ceti
+Zeta Camelopardalis
+Beta Pavonis
+Alpha Fornacis
+Epsilon Tauri
+Gamma Aquarii
+Beta Volantis
+Beta Capricorni
+Delta Normae
+Delta Sculptoris
+Epsilon Crateris
+Alpha Gorno
+Achernar
+Alpha Cassiopeiae
+Sirius
+Alpha Lipi
+Theta Draconis
+Alpha Octantis
+Gamma Hyades
+Altair
+Alpha Delphini
+Eta Corvi
+Alpha Muscae
+Epsilon Illuminati
+Alpha Orionis
+Gamma Giclas
+Alpha Cephei
+Squidi Gamma
+Alpha Centauri
+Delta Pictoris
+Zeta Normae
+Beta Antliae
+Microscopii
+Gamma Pyxidis
+Zeta Fornacis
+Fomalhaut
+Eta Illuminati
+Zeta Sextantis
+Alpha Scorpii
+Beta Chamaeleonis
+Regulus
+Kappa Horologii
+Delta Caeli
+Zeta Antliae
+Gamma Vitalis
+Beta Carinae
+Alpha Camelopardalis
+Beta Serpentis
+Gamma Corvi
+Squidi Beta
+Eta Ceti
+Eta Camelopardalis
+Alcor
+Beta Phoenicis
+Alpha Vitalis
+Beta Lentilis
+Delta Aurigae
+Eta Persei
+Alpha Gruis
+Alpha Velorum
+Alpha Lyncis
+Alpha Cerenkov
+Alpha Reticuli
+Alpha Hydrae
+Alpha Aquilae
+Alpha Hyades
+Alpha Bootis
+Zeta Oionis
+Alpha Sculptoris
+Zeta Bootis
+Gamma Centauri
+Delta Geminorum
+Beta Herculis
+Delta Scuti
+Gamma Saurus
+Kappa Hyades
+Epsilon Ptolemae
+Delta Draconis
+Theta Lyncis
+Delta Piscium
+Alpha Draconis
+Lambda Orionis
+Gamma Gorno
+Beta Velorum
+Kappa Chamaeleonis
+Beta Aurigae
+Mizar
+Beta Cephei
+Beta Tucanae
+Alpha Librae
+Vega
+Delta Gorno
+Gamma Circini
+Gamma Aquilae
+Theta Camelopardalis
+Beta Sextantis
+Alpha Ophiuchi
+Gamma Persei
+Beta Pyxidis
+Epsilon Sculptoris
+Gamma Volantis
+Delta Gruis
+Iota Horologii
+Zeta Scuti
+Delta Reticuli
+Alpha Pegasi
+Alpha Aurigae
+Gamma Hydrae
+Alpha Pavonis
+Beta Normae
+Gamma Normae
+Gamma Capricorni
+Beta Geminorum
+Alpha Telescopii
+Epsilon Volantis
+Alpha Maksutov
+Alpha Luyten
+Beta Arietis
+Beta Orionis
+Epsilon Serpentis
+Eta Chamaeleonis
+Epsilon Sextantis
+Beta Fornacis
+Beta Sagittarii
+Beta Lipi
+Delta Illuminati
+Beta Octantis
+Epsilon Chamaeleonis
+Alpha Puppis
+Beta Lacaille
+Procyon
+Gamma Draconis
+Alpha Sagittarii
+Alpha Arianni
+Alpha Tucanae
+Beta Eridani
+Theta Persei
+Zeta Centauri
+Delta Orionis
+Alpha Arae
+Alpha Capricorni
+Gamma Crucis
+Beta Arianni
+Gamma Camelopardalis
+Delta Ptolemae
+Zeta Reticulii
+Acamar
+Achernar
+Achird
+Acrab
+Acrux
+Acubens
+Adhafera
+Adhara
+Ain
+Aladfar
+Alamak
+Alathfar
+Albaldah
+Albali
+Albireo
+Alchiba
+Alcor
+Alcyone
+Aldebaran
+Alderamin
+Aldhafera
+Aldhanab
+Aldhibah
+Al Fawaris
+Alfecca Meridiana
+Alfirk
+Algedi
+Al Giedi
+Algenib
+Algieba
+Algol
+Algorab
+Alhena
+Alioth
+Alkaid
+Al Kalb al Rai
+Alkalurops
+Al Kaphrah
+Alkes
+Alkurah
+Almach
+Al Minliar al Asad
+Al Nair
+Alnilam
+Alnitak
+Alniyat
+Al Niyat
+Alphard
+Alphecca
+Alpheratz
+Alrai
+Alrakis
+Alrischa
+Alsafi
+Alschain
+Alshat
+Alsciaukat
+Altarf
+Altair
+Altais
+Alterf
+Al Thalimain
+Aludra
+Alula Australis
+Alula Borealis
+Alwaid
+Alya
+Alzir
+Ancha
+Angetenar
+Ankaa
+Antares
+Arcturus
+Arkab Prior
+Arkab Posterior
+Arm
+Arneb
+Arrakis
+Arkab
+Ascella
+Asellus Australis
+Asellus Borealis
+Asellus Primus
+Asellus Secundus
+Asellus Tertius
+Ashlesha
+Askella
+Aspidiske
+Asterion
+Asterope
+Atik
+Atlas
+Atria
+Avior
+Azaleh
+Azelfafage
+Azha
+Azmidiske
+Baham
+Baten Kaitos
+Becrux
+Beid
+Bellatrix
+Benetnasch
+Betelgeuse
+Betria
+Bharani
+Birdun
+Bogardus
+Botein
+Brachium
+Bunda
+Canopus
+Capella
+Caph
+Castor
+Cebalrai
+Celaeno
+Chara
+Cheleb
+Chertan
+Chort
+Chow
+Cor Caroli
+Cursa
+Dabih
+Decrux
+Deneb
+Deneb Algedi
+Deneb Dulfim
+Deneb el Okab
+Denebola
+Deneb Kaitos
+Deneb Kaitos Schemali
+Dheneb
+Diadem
+Diphda
+Dnoces
+Dschubba
+Dubhe
+Duhr
+Edasich
+Electra
+Elmuthalleth
+Elnath
+Eltanin
+Enif
+Errai
+Etamin
+Fomalhaut
+Fum al Samakah
+Furud
+Gacrux
+Garnet Star
+Gatria
+Gianfar
+Giedi
+Gienah Gurab
+Giennah
+Girtab
+Gomeisa
+Gorgonea Tertia
+Graffias
+Grafias
+Grassias
+Grumium
+Hadar
+Hadir
+Haedus
+Haldus
+Hamal
+Hassaleh
+Head of Hydrus
+Heka
+Heze
+Hoedus I
+Hoedus II
+Homam
+Hyadum I
+Hyadum II
+Hydrobius
+Izar
+Jabbah
+Jih
+Kaffaljidhm
+Kajam
+Kastra
+Kaus Australis
+Kaus Borealis
+Kaus Medius
+Keid
+Kitalpha
+Kochab
+Kornephoros
+Kraz
+Ksora
+Kullat Nunu
+Kuma
+Lanx Australis
+La Superba
+Lesath
+Lucida
+Lucida Anseris
+Maasym
+Mahasim
+Maia
+Marfark
+Marfik
+Markab
+Matar
+Mebsuta
+Media
+Megrez
+Meissa
+Mekbuda
+Menkab
+Menkalinan
+Menkar
+Menkent
+Menchib
+Menkib
+Merak
+Merga
+Merope
+Mesarthim
+Miaplacidus
+Mimosa
+Minchir
+Minelava
+Minkar
+Mintaka
+Mira
+Miram
+Mirach
+Mirfak
+Mirzam
+Misam
+Mizar
+Mothallah
+Muphrid
+Muliphein
+Murzim
+Muscida
+Nair Al Saif
+Naos
+Nash
+Nashira
+Navi
+Nekkar
+Neshmet
+Nihal
+Nunki
+Nusakan
+Okul
+Peacock
+Phact
+Phad
+Pherkad
+Pherkard
+Pleione
+Polaris Australis
+Polaris
+Pollux
+Porrima
+Praecipua
+Procyon
+Propus
+Proxima Centauri
+Pulcherrima
+Rana
+Ras Algethi
+Ras Alhague
+Ras Elased Australis
+Rasalas
+Rastaban
+Regor
+Regulus
+Rigel
+Rigil Kentaurus
+Rijl al Awwa
+Rotanev
+Ruchba
+Ruchbah
+Rukbat
+Rukh
+Sabik
+Sadachbia
+Sadalbari
+Sadalmelik
+Sadalsuud
+Sadatoni
+Sadira
+Sadr
+Saiph
+Salm
+Sargas
+Sarin
+Sarir
+Sasin
+Sceptrum
+Scheat
+Scheddi
+Schedar
+Segin
+Seginus
+Sham
+Sheliak
+Sheratan
+Shaula
+Skat
+Sirius
+Situla
+Spica
+Sterope II
+Sualocin
+Subra
+Suhail
+Sulafat
+Syrma
+Tabit
+Talitha Australis
+Talitha Borealis
+Tania Australis
+Tania Borealis
+Tarazet or Tarazed
+Taygeta
+Tegmen
+Terebellum
+Tejat Posterior
+Tejat Prior
+Thabit
+Theemin
+Thuban
+Tien Kuan
+Toliman
+Torcularis Septemtrionalis
+Tseen Kee
+Tureis
+Tyl
+Unuk
+Vega
+Vindemiatrix
+Wasat
+Wazn
+Wei
+Wezen
+Yed Prior
+Yed Posterior
+Yildun
+Zaniah
+Zaurak
+Zavijava
+Zosma
+Zuben-el-Akrab
+Zuben-el-Akribi
+Zubenelgenubi
+Zubeneschamali
+Barnard's Star
+Luyten's Star
+Van Maanen's star
+Tau Ceti
+Tsih
